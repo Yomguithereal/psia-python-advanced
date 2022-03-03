@@ -1,0 +1,23 @@
+{
+  "name": "psia-python-advanced",
+  "version": "1.0.0",
+  "description": "Resources related to PSIA course \"Advanced python for social scientists\".",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yomguithereal/psia-python-advanced.git"
+  },
+  "author": {
+    "name": "Guillaume Plique",
+    "url": "http://github.com/Yomguithereal"
+  },
+  "license": "CC BY-NC-SA 3.0",
+  "bugs": {
+    "url": "https://github.com/Yomguithereal/psia-python-advanced/issues"
+  },
+  "homepage": "https://github.com/Yomguithereal/psia-python-advanced#readme"
+}
