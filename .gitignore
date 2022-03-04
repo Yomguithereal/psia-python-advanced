@@ -1,0 +1,6 @@
+dist
+node_modules
+.DS_Store
+.ipynb_checkpoints
+.python-version
+.tmp
