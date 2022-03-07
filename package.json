@@ -23,6 +23,7 @@
   "devDependencies": {
     "backslide": "^3.0.0",
     "gh-pages": "^3.2.3",
-    "http-server": "^14.1.0"
+    "http-server": "^14.1.0",
+    "marked": "^4.0.12"
   }
 }
