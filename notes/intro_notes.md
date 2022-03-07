@@ -5,13 +5,13 @@ regexes
 public varié, qui a fait le cours de Rubing, première fois ce cours, coaching individuel, orientation du cours, orientation general programming knowledge, which OSes -> conda etc. adios pandas, écrire lire et streamer might not be obvious but will be in the long run, you will be able to understand what you do un fichier csv, compter par valeur de colonne, defaultdict assignement sujet a etudier
 Lang
 
-csv tqdm
+csv tqdm defaultdict
 
 what is the assignment
 
 Limite des donnees web
 
-Pca  umap barbera
+Pca umap barbera
 
 changer la seed de depart de neumann
 
