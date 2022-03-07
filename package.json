@@ -5,6 +5,9 @@
   "main": "index.js",
   "private": true,
   "scripts": {
+    "clean": "rm -rf dist && rm -rf decks/.tmp",
+    "build": "./scripts/build.sh",
+    "deploy": "npm run build && gh-pages -d dist",
     "decks": "cd decks && bs serve"
   },
   "repository": {

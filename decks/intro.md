@@ -18,6 +18,10 @@ _PSIA Spring Semester 2022_
 
 ---
 
+[https://yomguithereal.github.io/psia-python-advanced/decks/intro](https://yomguithereal.github.io/psia-python-advanced/decks/intro)
+
+---
+
 # Guillaume Plique
 
 Research engineer for SciencesPo [médialab](https://medialab.sciencespo.fr/).
@@ -109,7 +113,7 @@ Course should be packed, but:
 # Resources
 
 - Practical work will always end up in a notebook restitution
-- All slides etc. will be available online at: [https://yomguithereal.github.io/psia-python-advanced](https://yomguithereal.github.io/psia-python-advanced)
+- All slides etc. will be available online at: [https://yomguithereal.github.io/psia-python-advanced/](https://yomguithereal.github.io/psia-python-advanced/)
 - All through open source code that you can contribute to if you want: [https://github.com/Yomguithereal/psia-python-advanced](https://github.com/Yomguithereal/psia-python-advanced)
 
 ---
