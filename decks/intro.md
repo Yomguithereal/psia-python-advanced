@@ -18,6 +18,8 @@ _PSIA Spring Semester 2022_
 
 ---
 
+class: middle, center
+
 [https://yomguithereal.github.io/psia-python-advanced/decks/intro](https://yomguithereal.github.io/psia-python-advanced/decks/intro)
 
 ---
@@ -75,6 +77,8 @@ I prefer give you some context and broader knowledge of what programming is, alo
 
 Some topics might not seem directly useful to you but will make you better programmers/engineers/researchers in the long run.
 
+**Disclaimer**: you shall learn how to do things without always relying on `pandas`.
+
 ---
 
 # Broader topics
@@ -101,10 +105,10 @@ Course should be packed, but:
 
 ---
 
-# What today is about
+# What today (and maybe next week) is about
 
 - Python language basics review
-- A first use-case about PRNGs
+- First practical work about French elections
 - Level assessment
 - Shaping future courses outline
 
@@ -140,72 +144,35 @@ class: impact
 
 class: impact
 
-# Pseudo Random Number Generators
+# Presidential election candidate endorsement
 
 ---
 
-# How computer can generate randomness?
+# Our first practical work
 
---
+Let's explore the 2022 presidential election candidate endorsments by using available Open Data.
 
-Computer are pure maths. Can maths generate randomness?
-
---
-
-<br>
-
-Measure randomness, electrical noise, user interactions etc. (example [random.org](https://www.random.org/))?
-
---
-
-<br>
-
-👉 Design functions keeping a hidden state and yielding values fitting a uniform distribution.
+1. To be able to run, one has to collect at least 500 endorsements by great electors, most of them being mayors
+2. We would like to see what kind of mayors endorse what kind of candidates
+3. This is not straightforward to do because endorsement data contain no useful information about the great electors beyond their mandate
+4. We will need to match various datasets to answer our research questions
 
 ---
 
-# Chaos is not randomness
+# Open Data
 
-In our case, randomness is just a matter of guaranteeing uniformity.
+1. Exhaustive list of endorsments: [https://www.data.gouv.fr/fr/datasets/parrainages-des-candidats-a-lelection-presidentielle-francaise-de-2022/](https://www.data.gouv.fr/fr/datasets/parrainages-des-candidats-a-lelection-presidentielle-francaise-de-2022/)
+2. 2020 mayor election candidats: [https://www.data.gouv.fr/fr/datasets/elections-municipales-2020-candidatures-au-1er-tour/](https://www.data.gouv.fr/fr/datasets/elections-municipales-2020-candidatures-au-1er-tour/)
+3. French national registry of elected officials: [https://www.data.gouv.fr/fr/datasets/repertoire-national-des-elus-1/](https://www.data.gouv.fr/fr/datasets/repertoire-national-des-elus-1/)
+aggregated
 
-Chaos is about the unpredictability of a system but remains deterministic.
-
----
-
-# The Von Neumann method
-
-1. We choose a "seed", typically `1111`, as our initial state
-2. Multiply the state by itself => `1111 * 1111 = 1234321`
-3. We keep the 4 middle numbers as our new state => `3432`
-4. We output this number as our random number
-5. Next time we need a random number we start again from `2.`
-
----
-
-# A pretense
-
-1. advanced python concepts
-2. csv file handling
-3. data visualisation
-4. descriptive statistics
+All the necessary data has been aggregated here for you: [https://yomguithereal.github.io/psia-python-advanced/#data](https://yomguithereal.github.io/psia-python-advanced/#data)
 
 ---
 
 class: impact
 
 # Let's code!
-
----
-
-# An afterword about security and speedrunning
-
-A good PRNG should be undetectable.
-
-None is, but the cost of identifying them might be computationaly prohibitive.
-
-But good PRNG = bad performance. Chosing a PRNG is very important for cryptography, less so for generative art.
-
-Speedrunning and PRNG abusing.
 
 ---
 
@@ -223,7 +190,7 @@ Speedrunning and PRNG abusing.
 
 Any topic not in the list you would like to explore?
 
-Based on time/feasability and my knowledge (I don't include deep learning for a reason...), we can try to see if it could fit.
+Based on time/feasability and my knowledge (e.g. I don't include deep learning for a reason...), we can try to see if it could fit.
 
 ---
 
@@ -243,3 +210,9 @@ First foreshadowing about web data:
 
 1. Slight part on participation
 2. A final assessment about your exploration of a social science topic through web data collection and data visualisation. I will grade the code & the methodology, as well as the social science side of things.
+
+---
+
+class: middle, center
+
+# See you next week!

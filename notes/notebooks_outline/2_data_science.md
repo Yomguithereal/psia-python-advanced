@@ -1,5 +1,7 @@
 # Data Science
 
+First do the following without pandas nor visualisation then introduce pandas and such.
+
 ## Preparation
 
 1. Be sure to have:
@@ -12,12 +14,13 @@
 
 1. Read the "parrainages" JSON file
 2. Check out the records and count the candidates (using a `Counter`)
-3. Filter the file to keep only the running candidates (>= 500)
-4. Explore the available variables
+3. Compute by hand the mean number of endorsements
+4. Filter the file to keep only the running candidates (>= 500)
+5. Explore the available variables
   1. Civilité (displot), small multiple per candidate
   2. Dates (lineplots, cumsums etc.)
   3. Mandats
-5. Keep only parrainages from mayors
+6. Keep only parrainages from mayors
 
 ## RNE
 
