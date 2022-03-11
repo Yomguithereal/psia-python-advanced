@@ -25,11 +25,3 @@ stats et viz avec un notebook, utiliser un shell?
 algorithmie, scaling, graph theory
 
 reprendre les cours HETIC fuzzy matching + web crawling + trivia sur le random
-
----
-
-point about stats vs. viz
-imports on top
-help function
-what is a json file/csv file
-using docs

@@ -176,6 +176,14 @@ class: impact
 
 ---
 
+# Some points to remember
+
+1. Statistics & visualisation are two parallel, not antagonistic, ways to answer questions about data.
+2. `pandas` represent a tabular mindset common in data science but quite far from typical programming data representation.
+3. Always keep your methodology in mind to avoid errors and misinterpretation.
+
+---
+
 # Previsional course outline
 
 1. Intro course (today)

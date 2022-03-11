@@ -11,6 +11,6 @@
 ## Notes
 
 * Webmining (scraping + crawling), Hyphe, minet (http, css/html etc.)
-* Fuzzy matching + tokenization + lexicometry + clustering
+* Fuzzy matching + tokenization + lexicometry + clustering (regexes)
 * Machine learning, PCA, UMAP, linear regression
 * Graph theory, bipartite etc. (url stats)

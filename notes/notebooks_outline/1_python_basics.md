@@ -12,4 +12,4 @@
 10. try...except
 11. Imports
 12. Libraries & pip
-13. Regexes
+13. Regexes (if enough time)

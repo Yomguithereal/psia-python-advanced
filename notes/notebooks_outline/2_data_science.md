@@ -4,13 +4,17 @@ First do the following without pandas nor visualisation then introduce pandas an
 
 ## Preparation
 
-1. Be sure to have:
+1. How to install external libraries?
+2. Be sure to have:
   1. pandas
   2. seaborn
   3. tqdm
-2. Good practices: `requirements.txt`, keep imports on top
+3. Good practices: `requirements.txt`, keep imports on top
+4. Using `help` when lost, using tabulation & intellisense
 
 ## Parrainages
+
+Intro: what is a JSON file? how to parse a JSON file?
 
 1. Read the "parrainages" JSON file
 2. Check out the records and count the candidates (using a `Counter`)
@@ -24,14 +28,17 @@ First do the following without pandas nor visualisation then introduce pandas an
 
 ## RNE
 
+Intro: what is a CSV file? how to read a CSV file line by line?
+
 1. Read the CSV file (mind the encoding, & French separator)
 2. Match our mayors (expect .98 match)
 3. Visualize and cleanup professions
 
 ## Candidatures
 
-1. Read the CSV file with a progress bar (tqdm)
-2. Match our mayors
-3. Make a categorization using https://fr.wikipedia.org/wiki/R%C3%A9pertoire_national_des_%C3%A9lus
-4. Visualize and group political labels (start with LDVD, LDVG, LDVC)
-5. Same kind of small multiple per candidate, mind Mélenchon
+1. Uncompress the file or read it likewise directly using python (example of doc perusing)
+2. Read the CSV file with a progress bar (tqdm)
+3. Match our mayors
+4. Make a categorization using https://fr.wikipedia.org/wiki/R%C3%A9pertoire_national_des_%C3%A9lus
+5. Visualize and group political labels (start with LDVD, LDVG, LDVC)
+6. Same kind of small multiple per candidate, mind Mélenchon
