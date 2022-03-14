@@ -10,14 +10,20 @@ Repository: [https://github.com/Yomguithereal/psia-python-advanced](https://gith
 
 License: [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+---
+
 ## Slides
 
 * [Intro course](/psia-python-advanced/decks/intro)
 
+---
+
 ## Notebooks
 
-1. Python basics
-2. Exploring presidential election candidate endorsments
+1. [Python basics](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/00_python_basics_review.ipynb)
+2. [Exploring presidential election candidate endorsments](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/01_presidential_candidates_endorsments.ipynb)
+
+---
 
 ## Data
 
