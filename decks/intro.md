@@ -1,4 +1,5 @@
 title: Advanced Python for Social Scientists
+slug: intro
 class: animation-fade
 layout: true
 
@@ -20,7 +21,9 @@ _PSIA Spring Semester 2022_
 
 class: middle, center
 
-[https://yomguithereal.github.io/psia-python-advanced/decks/intro](https://yomguithereal.github.io/psia-python-advanced/decks/intro)
+# Intro course: python basics review & datascience
+
+[https://yomguithereal.github.io/psia-python-advanced/decks/{{slug}}](https://yomguithereal.github.io/psia-python-advanced/decks/{{slug}})
 
 ---
 
