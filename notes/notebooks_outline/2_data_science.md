@@ -1,6 +1,6 @@
 # Data Science
 
-First do the following without pandas nor visualisation then introduce pandas and such.
+Outline: either we mesh `pandas` usage or we do it at the end.
 
 ## Preparation
 
@@ -28,7 +28,7 @@ Intro: what is a JSON file? how to parse a JSON file?
 
 ## RNE
 
-Intro: what is a CSV file? how to read a CSV file line by line?
+Intro: what is a CSV file? What is encoding? how to read a CSV file line by line?
 
 1. Read the CSV file (mind the encoding, & French separator)
 2. Match our mayors (expect .98 match)

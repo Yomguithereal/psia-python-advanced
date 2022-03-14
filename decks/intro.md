@@ -65,7 +65,7 @@ This course is mostly a blank slate:
 
 - First time it is given at PSIA (and SciencesPo)
 - Unknown and heterogeneous level of students
-- Small numbers = practical work + individual coaching
+- Small numbers = mostly practical work + individual coaching
 
 ---
 
@@ -132,6 +132,7 @@ You can, depending on your OS and python setup:
 What do you know about:
 
 - Conda? Pyenv?
+- Pandas?
 - Knowledge of unix shells?
 
 ---
@@ -148,7 +149,7 @@ class: impact
 
 ---
 
-# Our first practical work
+# Our first practical work: typical datascience use case
 
 Let's explore the 2022 presidential election candidate endorsments by using available Open Data.
 
