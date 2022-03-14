@@ -14,3 +14,9 @@
 * Fuzzy matching + tokenization + lexicometry + clustering (regexes)
 * Machine learning, PCA, UMAP, linear regression
 * Graph theory, bipartite etc. (url stats)
+
+---
+
+For graph theory: basis of visual network analysis, add modularity, bipartite projection + visual variables tailored for vna.
+
+For webmining: add social network data collection.

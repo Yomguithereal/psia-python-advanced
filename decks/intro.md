@@ -36,7 +36,7 @@ Assisting social science researchers by:
 - Designing digital methodologies
 - Collecting massive amount of data on the web
 - Performing analysis of said data
-- Maintaining open source apps, tools & libraries
+- Publishing & maintaining open source apps, tools, libraries etc.
 
 ---
 

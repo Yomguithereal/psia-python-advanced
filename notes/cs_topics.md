@@ -11,3 +11,5 @@
 - [ ] encoding
 - [ ] streaming read/write
 - [ ] data vs. computation
+- [ ] HTTP codes
+- [ ] garbage collection
