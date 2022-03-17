@@ -4,6 +4,8 @@
 
 1. Let's create a working directory for our exploration
 2. Using `help` when lost, using tabulation & intellisense
+3. Read error messages (interesting part at the bottom usually)
+4. print, print, print
 
 ## Parrainages
 
