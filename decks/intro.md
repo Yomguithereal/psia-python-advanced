@@ -67,6 +67,7 @@ Based on the following triangle:
 This course is mostly a blank slate:
 
 - First time it is given at PSIA (and SciencesPo)
+- 4h is a bit intense
 - Unknown and heterogeneous level of students
 - Small numbers = mostly practical work + individual coaching
 
