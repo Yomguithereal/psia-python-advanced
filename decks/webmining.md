@@ -260,4 +260,27 @@ Example: Twitter.
 
 # Collecting data on social networks
 
-Learning to use minet for Twitter and YouTube data.
+Another practical work: using `minet` to collect Twitter or YouTube data.
+
+You can use it:
+
+1. As a python library
+2. As a command line tool
+
+---
+
+# Learning how to aggregate urls
+
+Urls should be considered as messy data and should be handled with care to draw meaningful statistics.
+
+We will learn:
+
+1. How to harmonize urls
+2. How to extract them from text and/or html
+3. How to spot shortened urls and resolve them
+
+---
+
+class: middle, center
+
+# See you next week!

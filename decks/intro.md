@@ -186,6 +186,8 @@ class: impact
 1. Statistics & visualisation are two parallel, not antagonistic, ways to answer questions about data.
 2. `pandas` represent a tabular mindset common in data science but quite far from typical programming data representation.
 3. Always keep your methodology in mind to avoid errors and misinterpretation.
+4. Beware of notebooks nonlinearity vs. industrialization in scripts.
+5. You don't have to remember everything, just enough to know how to find them back.
 
 ---
 

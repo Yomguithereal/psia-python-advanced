@@ -38,7 +38,8 @@ Intro:
 
 1. Read the CSV file (mind the encoding, & French separator)
 2. Match our mayors (expect .98 match), tuples can be used as key
-3. Visualize and cleanup professions
+3. Compare M/F proportion of endorsements vs. mayors
+4. Visualize and cleanup professions
 
 ## Candidatures
 
