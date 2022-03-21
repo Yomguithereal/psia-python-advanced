@@ -13,3 +13,4 @@
 - [ ] data vs. computation
 - [ ] HTTP codes
 - [ ] garbage collection
+- [ ] http codes

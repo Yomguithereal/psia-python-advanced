@@ -15,6 +15,7 @@ License: [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ## Slides
 
 * [Intro course](/psia-python-advanced/decks/intro)
+* [Webmining](/psia-python-advanced/decks/webmining)
 
 ---
 
