@@ -14,3 +14,4 @@
 - [ ] HTTP codes
 - [ ] garbage collection
 - [ ] http codes
+- [ ] camel case

@@ -62,8 +62,9 @@ Digression: what is structured data?
 
 * DNS resolution
 * Clients and servers
-* HTTP
-* HTML, CSS, templating
+* HTTP (codes rationale)
+* HTML & templating
+* CSS (to learn it with delicious sushis: https://flukeout.github.io/)
 * Authentication and cookies
 
 Your browser's devtool console is your best friend.

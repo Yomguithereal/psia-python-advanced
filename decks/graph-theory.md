@@ -168,6 +168,7 @@ class: center, middle
 
 * By homophily
 * By center/periphery etc.
+* By connectivity profile
 
 => Always a NP-hard problem that requires clever optimization methods.
 
