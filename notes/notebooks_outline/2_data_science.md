@@ -34,6 +34,7 @@ Intro:
 
 - what is a CSV file?
 - what is encoding?
+- how to indicate a custom delimiter?
 - how to read a CSV file line by line?
 
 1. Read the CSV file (mind the encoding, & French separator)
