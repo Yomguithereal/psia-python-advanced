@@ -100,7 +100,8 @@ class: middle, center
 Our targets for today's first practical work:
 
 1. EchoJS: https://www.echojs.com/
-2. Dynamic variant of Hacker News: https://angular2-hn.firebaseapp.com
+2. EchoJS pagination: https://www.echojs.com/latest/0
+3. Dynamic variant of Hacker News: https://angular2-hn.firebaseapp.com
 
 ---
 
