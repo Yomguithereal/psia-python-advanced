@@ -2,8 +2,13 @@ altair==4.2.0
 altair_data_server==0.4.1
 altair_saver==0.5.0
 beautifulsoup4==4.11.1
+ipysigma==0.14.0
 jupyterlab==3.3.0
+minet==0.60.1
+networkx==2.8
 pandas==1.4.1
+pelote==0.5.0
 requests==2.27.1
 seaborn==0.11.2
 tqdm==4.63.0
+ural==0.32.1
