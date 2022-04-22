@@ -2,6 +2,8 @@
 
 Deadline: may the 8th (sunday), at 11:59pm CEST
 
+Send your Jupyter notebook file by email (should have the `.ipynb` extension).
+
 1. Install `minet`, `ural` using `pip`.
 2. Using `minet` (relevant documentation [here](https://github.com/medialab/minet/blob/master/docs/twitter.md)), scrape all tweets matched by the `(blocage OR occupation) sciencespo` query, and store them in a list (this should amount to roughly ~1300 tweets). As this can take some minutes, print the number of tweets scraped each time you scrape 100 tweets so you can have feedback on what's happening.
 3. Find the top tweet by number of retweets and display its text, its author's screen name and its number of retweets.
