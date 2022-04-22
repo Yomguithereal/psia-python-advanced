@@ -16,6 +16,7 @@ mv dist/*.html dist/decks/
 
 # Building pages
 marked pages/index.md -o dist/index.html
+marked pages/assignment.md -o dist/assignment.html
 
 # Config
 touch dist/.nojekyll
