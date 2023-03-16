@@ -18,5 +18,9 @@ mv dist/*.html dist/decks/
 marked pages/index.md -o dist/index.html
 marked pages/assignment.md -o dist/assignment.html
 
+# Previous years
+mkdir dist/2022/
+marked pages/2022/index.md -o dist/2022/index.html
+
 # Config
 touch dist/.nojekyll

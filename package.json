@@ -8,7 +8,8 @@
     "clean": "rm -rf dist && rm -rf decks/.tmp",
     "build": "./scripts/build.sh",
     "deploy": "npm run build && gh-pages -d dist",
-    "decks": "cd decks && bs serve"
+    "decks": "cd decks && bs serve",
+    "serve": "npm run build && http-server -o -p 8000 dist"
   },
   "repository": {
     "type": "git",

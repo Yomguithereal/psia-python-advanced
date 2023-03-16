@@ -2,7 +2,7 @@
 
 ---
 
-*PSIA course, spring semester 2022*
+*PSIA course, spring semester 2023*
 
 Prof: [Guillaume Plique](https://github.com/Yomguithereal), [médialab](https://medialab.sciencespo.fr/)
 
@@ -10,25 +10,17 @@ Repository: [https://github.com/Yomguithereal/psia-python-advanced](https://gith
 
 License: [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[Final assignment](/psia-python-advanced/assignment)
+<!-- [Final assignment](/psia-python-advanced/assignment) -->
 
 ---
 
 ## Slides
 
 * [Intro course](/psia-python-advanced/decks/intro)
-* [Webmining](/psia-python-advanced/decks/webmining)
-* [Graph theory](/psia-python-advanced/decks/graph-theory)
 
 ---
 
 ## Notebooks
-
-1. [Python basics](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/00_python_basics_review.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/00_python_basics_review.ipynb))
-2. [Exploring presidential election candidate endorsments](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/01_presidential_candidates_endorsments.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/01_presidential_candidates_endorsments.ipynb))
-3. [Scraping](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/02_scraping.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/02_scraping.ipynb))
-4. [Twitter data and URL aggregation](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/03_twitter_data.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/03_twitter_data.ipynb))
-4. [Network of hashtags](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/04_networks.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/04_networks.ipynb))
 
 ---
 
