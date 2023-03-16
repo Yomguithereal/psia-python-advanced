@@ -64,10 +64,10 @@ Based on the following triangle:
 
 # A special kind of course
 
-This course is mostly a blank slate:
+This course should adapt to its students:
 
-- First time it is given at PSIA (and SciencesPo)
-- 4h is a bit intense
+- Second year it is given at PSIA (and SciencesPo)
+- 6 * 4h is a bit intense
 - Unknown and heterogeneous level of students
 - Small numbers = mostly practical work + individual coaching
 
@@ -77,7 +77,7 @@ This course is mostly a blank slate:
 
 You could learn python strictly in a means-to-an-end approach.
 
-I prefer give you some context and broader knowledge of what programming is, along with related concepts.
+I prefer giving you some context and broader knowledge of what programming entails, along with the related concepts.
 
 Some topics might not seem directly useful to you but will make you better programmers/engineers/researchers in the long run.
 
@@ -92,6 +92,7 @@ We **will** talk about:
 - Computer history
 - Computer sciences
 - Algorithmic complexity
+- Statistics, mathematics
 - How Internet actually works
 - etc.
 
