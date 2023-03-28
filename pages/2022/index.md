@@ -25,7 +25,7 @@ License: [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ## Notebooks
 
 1. [Python basics](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/00_python_basics_review.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/00_python_basics_review.ipynb))
-2. [Exploring presidential election candidate endorsments](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/01_presidential_candidates_endorsments.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/01_presidential_candidates_endorsments.ipynb))
+2. [Exploring presidential election candidate endorsements](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/01_presidential_candidates_endorsements.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/01_presidential_candidates_endorsements.ipynb))
 3. [Scraping](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/02_scraping.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/02_scraping.ipynb))
 4. [Twitter data and URL aggregation](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/03_twitter_data.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/03_twitter_data.ipynb))
 4. [Network of hashtags](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/04_networks.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/2022/04_networks.ipynb))
