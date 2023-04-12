@@ -10,7 +10,7 @@ Repository: [https://github.com/Yomguithereal/psia-python-advanced](https://gith
 
 License: [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-<!-- [Final assignment](/psia-python-advanced/assignment) -->
+[Final assignment](/psia-python-advanced/assignment)
 
 ---
 
