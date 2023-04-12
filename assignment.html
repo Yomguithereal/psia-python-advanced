@@ -1,16 +1,15 @@
 <h1 id="final-assignment">Final assignment</h1>
 <p>Deadline: may the 7th (sunday), at 11:59pm CEST</p>
 <p>Send your Jupyter notebook file by email (it should have the <code>.ipynb</code> extension).</p>
-<ol>
-<li>Install <code>minet</code>, <code>ural</code> using <code>pip</code>.</li>
-<li>Using <code>minet</code> (relevant documentation <a href="https://github.com/medialab/minet/blob/master/docs/twitter.md">here</a>), scrape all tweets matched by the <code>(blocage OR occupation) sciencespo</code> query, and store them in a list (this should amount to roughly ~1300 tweets). As this can take some minutes, print the number of tweets scraped each time you scrape 100 tweets so you can have feedback on what&#39;s happening.</li>
+<ul>
+<li>Make sure to have the following dependencies installed: <code>minet==1.0.0-a15</code>, <code>ural</code>.</li>
+<li>Using minet (relevant documentation <a href="https://github.com/medialab/minet/blob/master/docs/twitter.md">here</a>, or <a href="https://github.com/medialab/minet/blob/master/docs/cli.md#twitter-scrape">here</a> if you feel you want to use the CLI version), collect some relevant amount of tweets related to some social/political subject that feels interesting to you.</li>
 <li>Find the top tweet by number of retweets and display its text, its author&#39;s screen name and its number of retweets.</li>
 <li>Find the 10 accounts that tweeted the most in our corpus (you should rely on the <code>user_screen_name</code> key).</li>
 <li>Find the 10 most influent accounts by total number of retweets in our corpus.</li>
-<li>For nonzero values, compute descriptive statistics (min, max, mean, median, stdev) of the numbers of retweets in our corpus (remember python has a <a href="https://docs.python.org/3/library/statistics.html"><code>statistics</code></a> module).</li>
+<li>For nonzero values, compute descriptive statistics (min, max, mean, median, stdev) of the numbers of retweets in our corpus (python has a dedicated <a href="https://docs.python.org/3/library/statistics.html"><code>statistics</code></a> module for this).</li>
 <li>Write a csv file using a <a href="https://docs.python.org/3.6/library/csv.html#csv.DictWriter"><code>csv.DictWriter</code></a> with two columns <code>url</code> and <code>count</code>, containing all the shared urls along with the number of times they were shared in our corpus (using the <code>links</code> key, containing the urls shared by a single tweet).</li>
-<li>Find the 10 most shared urls.</li>
+<li>Find the 10 most shared urls or domains or any units of a url that feels relevant to you in the context of your analysis (you might want to rely on functions provided by <a href="https://github.com/medialab/ural">ural</a> for this).</li>
 <li>Find the 25 most used hashtags (check out the <code>hashtags</code> key).</li>
-<li>Try running your own queries on the dataset to better explore it.</li>
-<li>Redact a concise paragraph explaining what you understood of the subject at hand and the way people spoke of it on Twitter, by exploring this corpus of tweets.</li>
-</ol>
+<li>Run your own analysis, using basic statistics and/or networks to explore the dataset and redact a concise paragraph to explain what you understood of the collected data through said analysis.</li>
+</ul>
