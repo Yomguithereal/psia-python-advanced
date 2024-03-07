@@ -19,8 +19,13 @@ marked pages/index.md -o dist/index.html
 marked pages/assignment.md -o dist/assignment.html
 
 # Previous years
-mkdir dist/2022/
-marked pages/2022/index.md -o dist/2022/index.html
+# mkdir dist/2022/
+# marked pages/2022/index.md -o dist/2022/index.html
+# marked pages/2022/assignment.md -o dist/2022/assignment.html
+
+# mkdir dist/2023/
+# marked pages/2023/index.md -o dist/2023/index.html
+# marked pages/2023/assignment.md -o dist/2023/assignment.html
 
 # Config
 touch dist/.nojekyll

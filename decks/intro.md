@@ -15,7 +15,7 @@ class: impact
 
 # {{title}}
 
-_PSIA Spring Semester 2023_
+_PSIA Spring Semester 2024_
 
 ---
 
@@ -42,7 +42,7 @@ Assisting social science researchers by:
 
 # SciencesPo médialab
 
-Founded by Bruno Latour, directed by Dominique Cardon
+Founded by Bruno Latour, directed by Sylvain Parasie
 
 Based on the following triangle:
 
@@ -54,8 +54,8 @@ Based on the following triangle:
 
 # Who are you?
 
-1. Did you attend Rubing Chen's classes prev. semester?
-2. Are some of you completely new to python?
+1. Are you completely new to programming in general?
+2. To python specifically?
 3. What computer/OS are you using?
 4. How did you install Python?
 5. Research-oriented? Knowledge of social sciences methodology?
@@ -66,7 +66,7 @@ Based on the following triangle:
 
 This course should adapt to its students:
 
-- Second year it is given at PSIA (and SciencesPo)
+- Third year it is given at PSIA (and SciencesPo)
 - 6 * 4h is a bit intense
 - Unknown and heterogeneous level of students
 - Small numbers = mostly practical work + individual coaching
@@ -212,7 +212,7 @@ Based on time/feasability and my knowledge (e.g. I don't include deep learning f
 
 # For next time
 
-Find a interesting (to you) social topic that is discussed on the web and on social networks (Twitter mostly).
+Find a interesting (to you) social topic that is discussed on the web and on social networks (YouTube mostly).
 
 First foreshadowing about web data:
 

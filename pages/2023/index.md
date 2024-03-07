@@ -2,7 +2,7 @@
 
 ---
 
-*PSIA course, spring semester 2024*
+*PSIA course, spring semester 2023*
 
 Prof: [Guillaume Plique](https://github.com/Yomguithereal), [médialab](https://medialab.sciencespo.fr/)
 
@@ -10,26 +10,26 @@ Repository: [https://github.com/Yomguithereal/psia-python-advanced](https://gith
 
 License: [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-<!-- [Final assignment](/psia-python-advanced/assignment) -->
+[Final assignment](/psia-python-advanced/assignment)
 
 ---
 
 ## Slides
 
 * [Intro course](/psia-python-advanced/decks/intro)
-<!-- * [Webmining](/psia-python-advanced/decks/webmining) -->
-<!-- * [Graph theory](/psia-python-advanced/decks/graph-theory) -->
+* [Webmining](/psia-python-advanced/decks/webmining)
+* [Graph theory](/psia-python-advanced/decks/graph-theory)
 
 ---
 
 ## Notebooks
 
-<!-- 1. [Python basics review](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/00_python_basics_review.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/00_python_basics_review.ipynb))
+1. [Python basics review](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/00_python_basics_review.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/00_python_basics_review.ipynb))
 2. [Exploring presidential election candidate endorsements](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/01_presidential_candidates_endorsements.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/01_presidential_candidates_endorsements.ipynb))
 3. [Twitter data collection & URLs processing](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/02_twitter_data_collection.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/02_twitter_data_collection.ipynb))
 4. [Web mining](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/03_webmining.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/03_webmining.ipynb))
 5. [Networks](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/04_networks.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/04_networks.ipynb))
-6. [Machine learning](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/05_machine_learning.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/05_machine_learning.ipynb)) -->
+6. [Machine learning](https://nbviewer.org/github/Yomguithereal/psia-python-advanced/blob/master/notebooks/05_machine_learning.ipynb) ([source](https://github.com/Yomguithereal/psia-python-advanced/blob/master/notebooks/05_machine_learning.ipynb))
 
 ---
 
