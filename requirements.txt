@@ -1,6 +1,11 @@
+fog==0.11.9
+ipysigma==0.24.2
 jupyterlab==4.1.3
+minet==1.5.1
+networkx==2.8.8
+pelote==0.8.2
+tqdm==4.66.2
 ural==1.3.2
-minet==1.4.1
 
 # 2022
 # ----
