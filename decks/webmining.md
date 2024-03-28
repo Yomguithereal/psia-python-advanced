@@ -1,4 +1,4 @@
-title: Advanced Python for Social Scientists
+title: Python for Social Scientists
 slug: webmining
 class: animation-fade
 layout: true

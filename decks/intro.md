@@ -1,4 +1,4 @@
-title: Advanced Python for Social Scientists
+title: Python for Social Scientists
 slug: intro
 class: animation-fade
 layout: true

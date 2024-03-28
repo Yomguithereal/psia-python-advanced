@@ -1,4 +1,4 @@
-title: Advanced Python for Social Scientists
+title: Python for Social Scientists
 slug: machine-learning
 class: animation-fade
 layout: true

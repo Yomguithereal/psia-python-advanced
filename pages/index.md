@@ -17,8 +17,8 @@ License: [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ## Slides
 
 * [Intro course](/psia-python-advanced/decks/intro)
-<!-- * [Webmining](/psia-python-advanced/decks/webmining) -->
-<!-- * [Graph theory](/psia-python-advanced/decks/graph-theory) -->
+* [Webmining](/psia-python-advanced/decks/webmining)
+* [Graph theory](/psia-python-advanced/decks/graph-theory)
 
 ---
 
