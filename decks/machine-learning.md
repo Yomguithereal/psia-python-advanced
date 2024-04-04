@@ -15,7 +15,7 @@ class: impact
 
 # {{title}}
 
-_PSIA Spring Semester 2023_
+_PSIA Spring Semester 2024_
 
 ---
 
