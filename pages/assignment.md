@@ -1,6 +1,6 @@
 # Final assignment
 
-Deadline: April 28th (sunday) at 23:00 (Paris time).
+Deadline: May 5th (sunday) at 23:00 (Paris time).
 
 You must return your assignment as a single python notebook sent to me by email `guillaume.plique@sciencespo.fr`. The notebook should be an `.ipynb` file.
 
